@@ -2114,3 +2114,8 @@ td[scope="row"] > div {
           display: none; }
         table.usa-matrix tbody tr td[scope="row"] {
           display: none; } }
+
+
+ul.usa-primary-color-section {
+  display: flex !important;
+}
